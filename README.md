@@ -10,7 +10,7 @@ Process and scale-up chemist with a background in medicinal chemistry, including
 
 ### 🧪 Projects
 
-* [gamess_nmr](https://github.com/Darren01/gamess_nmr) – Extract and process NMR data from GAMESS output files
+* [gamess_functions](https://github.com/Darren01/gamess_functions) – Collection of reusable R functions for extracting and analysing GAMESS output data
 * [dp4](https://github.com/Darren01/dp4) – Reproduce DP4 probability calculations for structure validation
 
 ### 🛠️ Tools
