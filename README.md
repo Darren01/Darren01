@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Darren
 
-<!--
-**Darren01/Darren01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Process and scale-up chemist with a background in medicinal chemistry, including work on [PARP inhibitors](https://pubmed.ncbi.nlm.nih.gov/7575991/) contributing to the development of the anti-cancer drug [Rucaparib](https://en.wikipedia.org/wiki/Rucaparib).
 
-Here are some ideas to get you started:
+### 🔬 Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Computational chemistry using GAMESS (US)
+* NMR data analysis and interpretation
+* Applying ontologies to support chemical data workflows
+
+### 🧪 Projects
+
+* [gamess_nmr](https://github.com/Darren01/gamess_nmr) – Extract and process NMR data from GAMESS output files
+* [dp4](https://github.com/Darren01/dp4) – Reproduce DP4 probability calculations for structure validation
+
+### 🛠️ Tools
+
+* R (primary)
+* Python (working knowledge)
+* [GAMESS (US)](https://www.msg.chem.iastate.edu/gamess/)
+
+### 🚀 Current interests
+
+Exploring how ontologies can improve organisation, reuse, and interpretation of chemistry data.
+
+### 📫 Contact
+
+[Linkedin](https://www.linkedin.com/in/darren-rhodes-a7a7a213/)
